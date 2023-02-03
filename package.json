@@ -1,0 +1,28 @@
+{
+  "name": "workshop-api-testing",
+  "version": "1.0.0",
+  "description": "This is a workspace about Api Testing in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanFelipeJaramillo20/workshop-api-testing-js.git"
+  },
+  "keywords": [
+    "api-testing",
+    "dojo",
+    "practice"
+  ],
+  "author": "Juan Felipe Jaramillo - <juanfelipejaramillolosada@gmail.com> (JuanFelipeJaramillo20)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanFelipeJaramillo20/workshop-api-testing-js/issues"
+  },
+  "homepage": "https://github.com/JuanFelipeJaramillo20/workshop-api-testing-js#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
