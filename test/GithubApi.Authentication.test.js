@@ -1,5 +1,3 @@
-// eslint-disable-next-line import/no-extraneous-dependencies
-require('dotenv').config();
 const { StatusCodes } = require('http-status-codes');
 const { expect } = require('chai');
 const axios = require('axios');
